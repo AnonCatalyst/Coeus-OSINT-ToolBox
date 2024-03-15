@@ -1,2 +1,2 @@
 Hey Osinter!! 👋 🔉 
-Come back later when this repository has been officially released.
+Come back later when this Framework has been officially released.
