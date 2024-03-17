@@ -48,6 +48,8 @@ https://domainigdata.com/
 https://info.com/ 
 https://www.sitelike.org 
 https://hunter.io/
+https://hackertarget.com/
+https://check-host.net/
 
  Basic Osint
 \-----------/ 
