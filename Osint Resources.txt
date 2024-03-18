@@ -50,9 +50,6 @@ https://www.sitelike.org
 https://hunter.io/
 https://hackertarget.com/
 https://check-host.net/
-
- Basic Osint
-\-----------/ 
 https://epieos.com/
 https://lampyre.io/
 https://cipher387.github.io/pastebinsearchengines/
@@ -94,9 +91,5 @@ https://namechk.com/
 https://x-ray.contact/reverse-name-lookup/
 https://www.username.social/
 https://www.namecheckr.com/
-
- USER ID RESOLVERS
-\-----------------/
-
 https://discord.id/
 https://snowsta.mp/
