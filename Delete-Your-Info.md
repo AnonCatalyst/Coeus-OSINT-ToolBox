@@ -44,7 +44,3 @@
 
 10. **Protect Your Privacy Going Forward:**
     - Be cautious about sharing personal information online and review privacy settings regularly.
-
----
-
-Feel free to copy and paste this guide into a text file for reference.
