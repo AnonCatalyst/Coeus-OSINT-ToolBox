@@ -1,0 +1,117 @@
+1. Google - https://www.google.com
+2. Bing - https://www.bing.com
+3. Yahoo - https://www.yahoo.com
+4. Baidu - https://www.baidu.com
+5. Yandex - https://www.yandex.com
+6. DuckDuckGo - https://duckduckgo.com
+7. Ask.com - https://www.ask.com
+8. AOL Search - https://search.aol.com
+9. WolframAlpha - https://www.wolframalpha.com
+10. Ecosia - https://www.ecosia.org
+11. Swisscows - https://www.swisscows.com
+12. Startpage - https://www.startpage.com
+13. Search Encrypt - https://www.searchencrypt.com
+14. Qwant - https://www.qwant.com
+15. Gibiru - https://gibiru.com
+16. Mojeek - https://www.mojeek.com
+17. Peekier - https://peekier.com
+18. Oscobo - https://www.oscobo.com
+19. Dogpile - https://www.dogpile.com
+20. WebCrawler - https://www.webcrawler.com
+21. Excite - https://www.excite.com
+22. Info.com - https://www.info.com
+23. BoardReader - https://boardreader.com
+24. Searx - https://searx.me
+25. MetaGer - https://metager.org
+26. Givero - https://www.givero.com
+27. Gigablast - https://www.gigablast.com
+28. Million Short - https://millionshort.com
+29. SearchCode - https://searchcode.com
+30. CC Search - https://search.creativecommons.org
+31. Picsearch - https://www.picsearch.com
+32. Ekoru - https://ekoru.org
+33. Dribin - https://dribin.org
+34. Thryv - https://www.thryv.com
+35. HotBot - https://www.hotbot.com
+36. Lycos - https://www.lycos.com
+37. Entireweb - https://www.entireweb.com
+38. Teoma - https://www.teoma.com
+39. GoodGopher - https://www.goodgopher.com
+40. Lukol - https://www.lukol.com
+41. Search Team - https://www.searchteam.com
+42. OneSearch - https://search.yahoo.com/yhs/search
+43. Presearch - https://www.presearch.org
+44. DMOZ - https://www.dmoz.org
+45. Active Search Results - https://www.activesearchresults.com
+46. Wayback Machine - https://archive.org/web/
+47. Yippy - https://yippy.com
+48. MetaCrawler - https://www.metacrawler.com
+49. MyWebSearch - https://search.mywebsearch.com
+50. Zuula - https://zuula.com
+51. Netcraft - https://searchdns.netcraft.com
+52. Alexa Internet - https://www.alexa.com
+53. ScrubTheWeb - https://www.scrubtheweb.com
+54. LookSmart - https://www.looksmart.com
+55. AllTheWeb - https://alltheweb.com
+56. Mahalo.com - https://www.mahalo.com
+57. Surf Canyon - https://www.surfcanyon.com
+58. Hulbee - https://www.hulbee.com
+59. Factbites - https://www.factbites.com
+60. Kartoo - https://www.kartoo.com
+61. Trexy - https://www.trexy.com
+62. Fagan Finder - https://www.faganfinder.com
+63. Mamma.com - https://www.mamma.com
+64. ExactSeek - https://www.exactseek.com
+65. GigaBlast - https://www.gigablast.com
+66. Ixquick - https://www.ixquick.com
+67. Ahmia - https://ahmia.fi
+68. Disconnect Search - https://disconnect.me/search
+69. Clutsy - https://www.clutsy.com
+70. Searchy - https://www.searchy.net
+71. SearchBoth - https://www.searchboth.com
+72. Sputtr - https://www.sputtr.com
+73. Sootle - https://www.sootle.com
+74. Searchcraze - https://www.searchcraze.com
+75. Secret Search Engine Labs - https://www.secretsearchenginelabs.com
+76. Turbo10 - https://turbo10.com
+77. Xaphoo - https://xaphoo.net
+78. Heapr - https://heapr.com
+79. Del.icio.us - https://del.icio.us
+80. Exalead - https://www.exalead.com/search
+81. ScoopGo - https://www.scoopgo.com
+82. Icerocket - https://www.icerocket.com
+83. Goofram - https://www.goofram.com
+84. RocketBrowse - https://rocketbrowse.com
+85. Megaglobe - https://www.megaglobe.com
+86. TurboScout - https://www.turboscout.com
+87. 123people - https://www.123people.com
+88. WebFetch - https://webfetch.com
+89. AAfter - https://aafter.com
+90. InfoSpace - https://www.infospace.com
+91. ZapMeta - https://www.zapmeta.com
+92. Searchalot - https://www.searchalot.com
+93. Qrobe - https://qrobe.it
+94. Zuula - https://zuula.com
+95. ZapMeta - https://www.zapmeta.com
+96. TurboScout - https://www.turboscout.com
+97. 123people - https://www.123people.com
+98. Soovle - https://www.soovle.com
+99. Carrot2 - https://project.carrot2.org
+100. FindSounds - https://www.findsounds.com
+101. Silobreaker - https://www.silobreaker.com
+102. KartOO - https://www.kartoo.com
+103. Blippex - https://www.blippex.org
+104. Lexxe - https://www.lexxe.com
+105. Million Short - https://millionshort.com
+106. SearchReSearch - https://research.google/tools
+107. Pipl - https://pipl.com
+108. Topicle - https://topicle.com
+109. SkyGrid - https://skygrid.com
+110. SearchMe - https://www.searchme.com
+111. Greplin - https://www.greplin.com
+112. Evri - https://www.evri.com
+113. Wajam - https://www.wajam.com
+114. Addictomatic - https://addictomatic.com
+115. Factery - https://factery.com
+116. SnappyFingers - https://snappyfingers.com
+117. Zanran - https://zanran
