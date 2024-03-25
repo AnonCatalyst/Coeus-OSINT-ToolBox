@@ -1,3 +1,5 @@
+BETA - RELEASE | 3/25/2024
+
 # DataSphere OSINT Framework 🌐🔍
 
 Welcome to the DataSphere OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
