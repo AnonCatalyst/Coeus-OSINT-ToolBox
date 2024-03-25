@@ -14,7 +14,7 @@
 
 8. [Hackers Arise](https://www.hackers-arise.com/online-store) 💡: Offers products and resources related to hacking and cybersecurity.
 
-### Companies
+### Extra
 1. [Offensive Security](https://www.offensive-security.com/) 🛡️: Offers cybersecurity training courses, certifications, and related products.
 
 2. [Pwnie Express](https://www.pwnieexpress.com/) 📡: Specializes in hardware and software solutions for network security monitoring.
