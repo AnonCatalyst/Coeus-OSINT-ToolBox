@@ -120,3 +120,4 @@ Below is a curated list of pastebin websites along with their descriptions:
 📎 Paste.io is a pastebin service designed for sharing short snippets of text and code with ease.
 
 ## [Xinu Paste](https://paste.xinu.at/)
+🔧 Xinu Paste is a pastebin service offering a platform
