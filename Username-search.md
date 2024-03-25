@@ -1,4 +1,4 @@
-# Username Search Links 🕵️‍♂️
+# Username Searches 🕵️‍♂️
 
 Below is a list of username search links along with a brief description of their offerings:
 
