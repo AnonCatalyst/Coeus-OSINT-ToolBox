@@ -1,10 +1,4 @@
 
-
- BACKGROUND CHECK
-\----------------/
-
-https://www.publicdatacheck.com/
-
  PEOPLE SEARCHES
 \---------------/
 
@@ -35,41 +29,4 @@ https://searchpeoplefree.com/
 https://usphonebook.com/
 https://usa-people-search.com/
 
- MISC RESOURCES
-\--------------/
-
-https://streatscan.co.uk/
-https://zillow.com/
-https://trulia.com/
-https://redfin.com/
-https://social-searcher.com/
-https://excite.com/
-https://viewdns.info/
-https://domainigdata.com/
-https://info.com/ 
-https://www.sitelike.org 
-
- Basic Osint
-\-----------/ 
-https://epieos.com/
-https://lampyre.io/
-https://cipher387.github.io/pastebinsearchengines/
-
- FREE CALLS, TEXTS & EMAILS
-\--------------------------/
-
-https://opentextingonline.com
-https://temp-mail.org
-https://poptox.com
-
- USERNAME SEARCH LINKS
-\---------------------/
-
-https://whatsmyname.app
-https://seintpl.github.io/NAMINT/
-
- USER ID RESOLVERS
-\-----------------/
-
-https://discord.id/
-https://snowsta.mp/
+ 
