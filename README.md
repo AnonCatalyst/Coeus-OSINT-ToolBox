@@ -21,7 +21,7 @@ The DataSphere OSINT Framework offers a wide array of tools and resources catego
 ### Web Resources 🌐
 5. [Forums](Forums.md): Explore various forums for information gathering.
 6. [Paste Sites](Paste-Sites.md): Investigate content shared on paste sites.
-7. [Proxy Sites](Proxy-Sites.txt): Access proxy sites for anonymity and bypassing restrictions.
+7. [Proxy Sites](txt/Proxy-Sites.txt): Access proxy sites for anonymity and bypassing restrictions.
 8. [Search Engines](Search-Engines.md): Utilize search engines for information retrieval.
 9. [Deep Web Paste Sites](DeepWeb-Paste-Sites.txt): Delve into paste sites on the deep web.
 10. [Deep Web Search Engines](DeepWeb-Search-Engines.txt): Search the deep web for hidden information.
