@@ -1,12 +1,12 @@
 BETA - RELEASE | 3/25/2024
 
-# DataSphere OSINT Framework 🌐🔍
+# Coeus OSINT Framework 🌐🔍
 
-Welcome to the DataSphere OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
+Welcome to the Coeus OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
 ## Overview ℹ️
 
-The DataSphere OSINT Framework offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this framework provides a range of options to suit your needs.
+The Coeus OSINT Framework offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this framework provides a range of options to suit your needs.
 
 ## Table of Contents 📚
 
@@ -37,7 +37,7 @@ The DataSphere OSINT Framework offers a wide array of tools and resources catego
 
 ## Usage 🚀
 
-Explore the various files to leverage different tools and resources provided by the DataSphere OSINT Framework for your intelligence gathering needs. Each tool or resource file contains instructions on how to use them effectively.
+Explore the various files to leverage different tools and resources provided by the Coeus OSINT Framework for your intelligence gathering needs. Each tool or resource file contains instructions on how to use them effectively.
 
 ### Important Security Note 🔒
 
