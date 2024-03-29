@@ -2,7 +2,7 @@
 
 ## Free Temp Emails 📧
 
-1. **Temp Mail** (https://temp-mail.org): Provides temporary email addresses for receiving emails without registration.
+1. **Temp Mail** https://temp-mail.org: - Provides temporary email addresses for receiving emails without registration.
 2. **Tempmailo** (https://tempmailo.com/): Offers temporary email addresses for receiving emails without registration.
 3. **Tempail** (https://tempail.com/): Provides temporary email addresses for receiving emails without registration.
 4. **Temp Mail** (https://temp-mail.io/en): Provides temporary email addresses for receiving emails without registration.
@@ -24,7 +24,7 @@
 17. **FreePhoneNum** (https://freephonenum.com/): Provides free temporary phone numbers for receiving SMS messages.
 18. **TextNow** (https://www.textnow.com/): Offers free texting and calling services with a dedicated phone number.
 19. **Google Voice** (https://voice.google.com/): Provides free texting and calling services with a dedicated phone number.
-20. **Temp-SMS** (https://temp-sms.org/): Offers temporary phone numbers for receiving SMS messages.
+20. **Temp-SMS** https://temp-sms.org/: Offers temporary phone numbers for receiving SMS messages.
 21. **TempSMSNumber** (https://tempsmsnumber.com/): Provides temporary phone numbers for receiving SMS messages.
 22. **Mailinator** (https://www.mailinator.com/): Offers temporary email addresses for receiving emails without registration.
 23. **EmailOnDeck** (https://www.emailondeck.com/): Provides temporary email addresses for receiving emails without registration.
