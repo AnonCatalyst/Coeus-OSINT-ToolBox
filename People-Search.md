@@ -58,3 +58,17 @@
 39. **Addresses.com White Pages** https://www.addresses.com/white-pages: Addresses.com White Pages provides white pages directory services.
 40. **Yellow Pages White Pages** https://people.yellowpages.com/whitepages/: Yellow Pages White Pages offers white pages directory services.
 41. **IDCrawl** https://www.idcrawl.com/: IDCrawl provides people search services.
+42. **123People** - https://www.123people.com/: Offers free people search services globally.
+43. **Yasni** - https://www.yasni.com/: Provides free people search services globally.
+44. **BeenVerified** - https://www.beenverified.com/: Offers limited free people search services with global coverage.
+45. **Zosearch** - https://www.zosearch.com/: Provides free people search services with global coverage.
+46. **Find People Search** - https://www.findpeoplesearch.com/: Offers free people search services with global coverage.
+47. **Find People Worldwide** - https://findpeopleworldwide.com/: Provides free people search services covering various countries globally.
+48. **People Search Global** - https://www.peoplesearchglobal.com/: Offers free people search services with global coverage.
+49. **Find People Fast** - https://www.findpeoplefast.org/: Provides free people search services with global coverage.
+50. **Search People Free International** - https://www.searchpeoplefreeinternational.com/: Offers free people search services covering multiple countries globally.
+51. **International People Search** - https://www.internationalpeoplesearch.com/: Provides free people search services with international coverage.
+52. **People Finder Worldwide** - https://www.peoplefinderworldwide.com/: Offers free people search services with global coverage.
+53. **Global People Search** - https://www.globalpeoplesearch.com/: Provides free people search services covering various countries globally.
+54. **Worldwide People Search** - https://www.worldwidepeoplesearch.com/: Offers free people search services with global coverage.
+55. **International People Finder** - https://www.internationalpeoplefinder.com/: Provides free people search services with international coverage.
