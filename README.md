@@ -29,7 +29,7 @@ The Coeus OSINT Framework offers a wide array of tools and resources categorized
 ### Development Resources 🛠️
 11. [GitHub Alternatives](Github_Alternatives.txt): Explore alternatives to GitHub for hosting code.
 12. [Hackstores](Hackstores.md): Access repositories of hacking tools and resources.
-13. [Tool Collection Sites](Tool-collection-sites.txt): Find collections of various OSINT tools.
+13. [Tool Collection Sites](Tool-collection-sites.md): Find collections of various OSINT tools.
 
 ### Miscellaneous 🔄
 14. [Miscellaneous](Miscellaneous.md): Additional miscellaneous tools and resources.
