@@ -2,7 +2,7 @@
 ## 🛡️ Step-by-Step Guide to Removing Your Information from the Web 🛡️
 
 ### 📑 Table of Contents 📑
-```
+`
 1. [List Your Personal Information](#1-list-your-personal-information)
 2. [Delete Unused Accounts](#2-delete-unused-accounts)
 3. [Update Active Account Settings](#3-update-active-account-settings)
@@ -23,7 +23,7 @@
 18. [Secure Your Devices](#18-secure-your-devices)
 19. [Review Privacy Policies](#19-review-privacy-policies)
 20. [Be Selective with Sharing](#20-be-selective-with-sharing)
-```
+`
 1. **List Your Personal Information:**
    - Write down all your personal details such as name, email, phone number, address, and any other sensitive data.
 
