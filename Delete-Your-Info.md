@@ -23,7 +23,10 @@
 18. [Secure Your Devices](#18-secure-your-devices)
 19. [Review Privacy Policies](#19-review-privacy-policies)
 20. [Be Selective with Sharing](#20-be-selective-with-sharing)
-```
+
+
+> **DELETE YOUR INFO>>
+
 1. **List Your Personal Information:**
    - Write down all your personal details such as name, email, phone number, address, and any other sensitive data.
 
@@ -100,4 +103,3 @@
 
 20. **Be Selective with Sharing:**
     - Limit the amount of person`al information you share online and only provide it to trusted sources.
-```
