@@ -25,7 +25,7 @@
 20. [Be Selective with Sharing](#20-be-selective-with-sharing)
 
 
-# -- **DELETE YOUR INFO** 
+### 👻 **DELETE YOUR INFO** 
 
 1. **List Your Personal Information:**
    - Write down all your personal details such as name, email, phone number, address, and any other sensitive data.
