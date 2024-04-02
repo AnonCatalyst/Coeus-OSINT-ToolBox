@@ -1,6 +1,6 @@
 ## 🛡️ Step-by-Step Guide to Removing Your Information from the Web 🛡️
 
-## 📑 Table of Contents 📑
+### 📑 Table of Contents 📑
 
 1. [List Your Personal Information](#1-list-your-personal-information)
 2. [Delete Unused Accounts](#2-delete-unused-accounts)
