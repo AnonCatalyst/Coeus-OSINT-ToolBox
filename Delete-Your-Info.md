@@ -1,30 +1,6 @@
 
 ## 🛡️ Step-by-Step Guide to Removing Your Information from the Web 🛡️
 
-### 📑 Table of Contents 📑
-
-1. [List Your Personal Information](#1-list-your-personal-information)
-2. [Delete Unused Accounts](#2-delete-unused-accounts)
-3. [Update Active Account Settings](#3-update-active-account-settings)
-4. [Clean Up Social Media](#4-clean-up-social-media)
-5. [Opt-Out of Data Brokers](#5-opt-out-of-data-brokers)
-6. [Contact Site Administrators](#6-contact-site-administrators)
-7. [Remove from Search Engines](#7-remove-from-search-engines)
-8. [Consider Data Removal Services](#8-consider-data-removal-services)
-9. [Set Up Google Alerts](#9-set-up-google-alerts)
-10. [Protect Future Privacy](#10-protect-future-privacy)
-11. [Learn About Legal Options](#11-learn-about-legal-options)
-12. [Stay Informed](#12-stay-informed)
-13. [Report Violations](#13-report-violations)
-14. [Stay Vigilant](#14-stay-vigilant)
-15. [Educate Others](#15-educate-others)
-16. [Use Privacy Tools](#16-use-privacy-tools)
-17. [Check Data Breach Notifications](#17-check-data-breach-notifications)
-18. [Secure Your Devices](#18-secure-your-devices)
-19. [Review Privacy Policies](#19-review-privacy-policies)
-20. [Be Selective with Sharing](#20-be-selective-with-sharing)
-
-
 ### 👻 **DELETE YOUR INFO** 
 
 1. **List Your Personal Information:**
