@@ -58,12 +58,12 @@ The Coeus OSINT Framework offers a wide array of tools and resources categorized
     - Discover and explore alternative platforms for hosting and sharing code repositories.
     File: `Github_Alternatives.md`
 
-12. **Hackstores** - 🛡️ Access repositories of hacking tools and resources.
-    - Access repositories and databases containing various hacking tools, scripts, and resources.
+12. **Hackstores** - 🛡️ Access hacking tools and resources.
+    - Access the latest hacking gadgets and tech ⚙️ Explore what the hackers market offers you.
     File: `Hackstores.md`
 
 13. **Tool Collection Sites** - 🧰 Find collections of various OSINT tools.
-    - Discover curated collections of open-source intelligence (OSINT) tools for information gathering.
+    - Discover communities sharing there latest creations and collections of other tool repositories.
     File: `Tool-collection-sites.md`
 
 ### 🔄 Miscellaneous
