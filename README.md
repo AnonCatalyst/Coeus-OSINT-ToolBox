@@ -62,8 +62,8 @@ The Coeus OSINT Framework offers a wide array of tools and resources categorized
     - Access the latest hacking gadgets and tech ⚙️ Explore what the hackers market offers you.
     File: `Hackstores.md`
 
-13. **Tool Collection Sites** - 🧰 Find collections of various OSINT tools.
-    - Discover communities sharing there latest creations and collections of other tool repositories.
+13. **Tool Collection Sites** - 🧰 Find collections of various OSINT tools & hacking gadgets.
+    - Discover communities sharing there latest creation & explore bountiful tool repositories.
     File: `Tool-collection-sites.md`
 
 ### 🔄 Miscellaneous
