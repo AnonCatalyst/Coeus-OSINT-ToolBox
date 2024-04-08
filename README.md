@@ -1,4 +1,4 @@
-BETA - RELEASE | 3/25/2024
+
 
 # Coeus OSINT Framework 🌐🔍
 
