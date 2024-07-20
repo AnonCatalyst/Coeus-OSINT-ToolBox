@@ -55,6 +55,3 @@ Below is a list of username search links along with a brief description of their
 
 18. **[picuki.com/profile/](https://www.picuki.com/profile/)**  
     - Offers services related to searching for profiles, potentially including username search and profile analysis.
-
-19. **[glavbukh.ru/forum/member.php/?username=](https://www.glavbukh.ru/forum/member.php/?username={query})**  
-    - Provides forum member search functionality based on usernames, allowing users to find members of a forum based on their usernames.
