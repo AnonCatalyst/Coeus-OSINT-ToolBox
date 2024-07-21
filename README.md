@@ -1,15 +1,14 @@
 
 
-# Coeus OSINT Framework 🌐🔍
+# Coeus OSINT ToolBox 🌐🔍
 
 ## ⚠️ **NOTICE:**
-- ``Currently, a curated collection of OSINT tools and resources, providing a solid foundation for your OSINT operations. However, this is just the beginning. My vision is to evolve the Coeus-OSINT-Framework into a comprehensive, full-fledged desktop application that integrates not only external links but also custom-built tools, plugins, and features.``
 
-Welcome to the Coeus OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
+Welcome to the Coeus OSINT ToolBox, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
 ## Overview ℹ️
 
-The Coeus OSINT Framework offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this framework provides a range of options to suit your needs.
+The Coeus OSINT ToolBox offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this toolbox provides a range of options to suit your needs.
 
 ## 📚 Table of Contents
 
@@ -83,12 +82,12 @@ The Coeus OSINT Framework offers a wide array of tools and resources categorized
     File: `Social_Platforms.json`
 
 ### ℹ️ Other
-17. **README** - Instructions and information about the Coeus-Framework.
-    - Detailed instructions, usage guidelines, and information about the Coeus-Framework.
+17. **README** - Instructions and information about the Coeus-ToolBox.
+    - Detailed instructions, usage guidelines, and information about the Coeus-ToolBox.
     File: `README.md`
 
 18. **LICENSE** - License information for the Coeus-Framework.
-    - Information about the licensing terms and conditions for using the Coeus-Framework.
+    - Information about the licensing terms and conditions for using the Coeus-ToolBox.
     File: `LICENSE`
 
 ## Usage 🚀
