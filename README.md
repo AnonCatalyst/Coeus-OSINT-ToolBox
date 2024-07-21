@@ -2,8 +2,6 @@
 
 # Coeus OSINT ToolBox 🌐🔍
 
-## ⚠️ **NOTICE:**
-
 Welcome to the Coeus OSINT ToolBox, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
 ## Overview ℹ️
