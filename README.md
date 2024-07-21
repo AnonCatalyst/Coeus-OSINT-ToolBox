@@ -2,6 +2,9 @@
 
 # Coeus OSINT Framework 🌐🔍
 
+## ⚠️ **NOTICE:**
+- ``Currently, a curated collection of OSINT tools and resources, providing a solid foundation for your OSINT operations. However, this is just the beginning. My vision is to evolve the Coeus-OSINT-Framework into a comprehensive, full-fledged desktop application that integrates not only external links but also custom-built tools, plugins, and features.``
+
 Welcome to the Coeus OSINT Framework, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
 ## Overview ℹ️
