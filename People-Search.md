@@ -1,9 +1,4 @@
 # People Search Services
-
-## Paid Services 💳
-
-1. **BeenVerified** https://www.beenverifie# People Search Services
-
 ## Paid Services 💳
 
 1. **BeenVerified** https://www.beenverified.com/: Provides background checks, criminal records, contact information, and more for a fee.
