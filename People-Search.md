@@ -2,6 +2,10 @@
 
 ## Paid Services 💳
 
+1. **BeenVerified** https://www.beenverifie# People Search Services
+
+## Paid Services 💳
+
 1. **BeenVerified** https://www.beenverified.com/: Provides background checks, criminal records, contact information, and more for a fee.
 2. **Instant Checkmate** https://www.instantcheckmate.com/: Offers detailed background checks, criminal records, contact information, and more for a fee.
 3. **Intelius** https://www.intelius.com/: Provides background checks, people search, public records, and more for a fee.
@@ -72,3 +76,59 @@
 53. **Global People Search** - https://www.globalpeoplesearch.com/: Provides free people search services covering various countries globally.
 54. **Worldwide People Search** - https://www.worldwidepeoplesearch.com/: Offers free people search services with global coverage.
 55. **International People Finder** - https://www.internationalpeoplefinder.com/: Provides free people search services with international coverage.
+d.com/: Provides background checks, criminal records, contact information, and more for a fee.
+2. **Instant Checkmate** https://www.instantcheckmate.com/: Offers detailed background checks, criminal records, contact information, and more for a fee.
+3. **Intelius** https://www.intelius.com/: Provides background checks, people search, public records, and more for a fee.
+4. **CheckPeople** https://checkpeople.com/: Offers background checks, public records, contact information, and more for a fee.
+5. **Advanced Background Checks** https://www.advancedbackgroundchecks.com/: Provides background checks, people search, public records, and more for a fee.
+6. **CocoFinder** https://cocofinder.com/: Offers background checks, people search, public records, and more for a fee.
+7. **Instant Checkmate** https://www.instantcheckmate.com/: Offers detailed background checks, criminal records, contact information, and more for a fee.
+8. **MyLife** https://www.mylife.com/: Provides background checks, people search, contact information, and more for a fee.
+9. **PeopleFinders** https://www.peoplefinders.com/: Offers background checks, people search, public records, and more for a fee.
+10. **US Search** https://www.ussearch.com/: Provides background checks, people search, public records, and more for a fee.
+11. **Public Records Now** https://www.publicrecordsnow.com/: Offers access to public records, background checks, and more for a fee.
+12. **PeopleLooker** https://www.peoplelooker.com/: Provides background checks, people search, public records, and more for a fee.
+
+### Free People Search Resources
+
+1. **PeekYou** [peekyou.com](https://peekyou.com/): People search engine aggregating social media profiles and contact information.
+2. **White Pages** [whitepages.com](https://www.whitepages.com/): Provides basic contact information and addresses.
+3. **TruePeopleSearch** [truepeoplesearch.com](https://www.truepeoplesearch.com/): Offers basic contact details and potential relatives.
+4. **AnyWho** [anywho.com](https://www.anywho.com/): Provides people search and reverse phone lookup services.
+5. **Radaris** [radaris.com](https://radaris.com/): Offers contact information, addresses, and some background information.
+6. **Pipl** [pipl.com](https://pipl.com/): Aggregates information from various sources for comprehensive results.
+7. **Fast People Search** [fastpeoplesearch.com](https://www.fastpeoplesearch.com/): Provides basic people search services.
+8. **Canada411** [canada411.ca](https://www.canada411.ca/): People search services for Canada.
+9. **123People** [123people.com](https://www.123people.com/): Global people search services.
+10. **Yasni** [yasni.com](https://www.yasni.com/): Global people search services.
+11. **Zabasearch** [zabasearch.com](https://zabasearch.com/): Free people search and contact information.
+12. **PeopleLookup** [peoplelookup.com](https://www.peoplelookup.com/): Basic people search with contact details.
+13. **SearchPeopleFree** [searchpeoplefree.com](https://www.searchpeoplefree.com/): Free people search services.
+14. **FastPeopleSearch** [fastpeoplesearch.com](https://www.fastpeoplesearch.com/): Basic free people search services.
+15. **ThatsThem** [thatsthem.com](https://www.thatsthem.com/): Comprehensive searches for name, location, address, email, phone, and IP addresses.
+16. **TruthFinder** [truthfinder.com](https://www.truthfinder.com/): Offers free basic people search and some public records.
+17. **US Search** [ussearch.com](https://www.ussearch.com/): Provides basic people search services and some public records.
+18. **People Search** [peoplesearch.com](https://peoplesearch.com/): Provides free people search services with some available data.
+19. **Public Records Now** [publicrecordsnow.com](https://www.publicrecordsnow.com/): Limited free background check services with access to some public records.
+20. **Social Search** [socialsearch.com](https://socialsearch.com/): Offers free people search based on social media profiles and other online data.
+21. **FindPeopleFast** [findpeoplefast.org](https://www.findpeoplefast.org/): Free people search services with global coverage.
+22. **Search People Free International** [searchpeoplefreeinternational.com](https://www.searchpeoplefreeinternational.com/): Offers free people search services covering multiple countries globally.
+23. **International People Search** [internationalpeoplesearch.com](https://www.internationalpeoplesearch.com/): Provides free people search services with international coverage.
+24. **People Finder Worldwide** [peoplefinderworldwide.com](https://www.peoplefinderworldwide.com/): Offers free people search services with global coverage.
+25. **Global People Search** [globalpeoplesearch.com](https://www.globalpeoplesearch.com/): Provides free people search services covering various countries globally.
+26. **Worldwide People Search** [worldwidepeoplesearch.com](https://www.worldwidepeoplesearch.com/): Offers free people search services with global coverage.
+27. **International People Finder** [internationalpeoplefinder.com](https://www.internationalpeoplefinder.com/): Provides free people search services with international coverage.
+28. **FindPeopleWorldwide** [findpeopleworldwide.com](https://findpeopleworldwide.com/): Provides free people search services covering various countries globally.
+
+### Free Family Tree and Genealogical Resources
+
+1. **FamilyTreeNow** [familytreenow.com](https://familytreenow.com/): Access to genealogical records and family tree building tools.
+2. **Findmypast** [findmypast.com](https://www.findmypast.com/): Free access to some historical records and family tree resources.
+3. **MyHeritage** [myheritage.com](https://www.myheritage.com/): Limited free access to family tree building and historical records.
+4. **WikiTree** [wikitree.com](https://www.wikitree.com/): Collaborative family tree platform for building and sharing family trees.
+5. **Geni** [geni.com](https://www.geni.com/): Free collaborative family tree building and some historical data.
+6. **Genealogy.com** [genealogy.com](https://www.genealogy.com/): Basic access to family tree building and historical records.
+7. **Find A Grave** [findagrave.com](https://www.findagrave.com/): Provides free access to cemetery records and grave information.
+8. **Cyndi's List** [cyndislist.com](https://www.cyndislist.com/): A comprehensive directory of genealogical resources and websites.
+9. **Archives.com** [archives.com](https://www.archives.com/): Limited free access to some historical records and family tree information.
+10. **RootsWeb** [rootsweb.ancestry.com](https://rootsweb.ancestry.com/): Provides free access to user-submitted family trees and historical records.
