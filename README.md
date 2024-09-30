@@ -2,6 +2,8 @@
 
 Welcome to the Coeus OSINT ToolBox, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
+``Update planned[includes] More resources & Removal of dead links.``
+
 ## Overview ℹ️
 
 The Coeus OSINT ToolBox offers a wide array of tools and resources categorized into different sections to facilitate intelligence gathering activities. Whether you're conducting background checks, exploring web resources, or seeking development tools, this toolbox provides a range of options to suit your needs.
