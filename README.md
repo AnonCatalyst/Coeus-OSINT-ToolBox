@@ -71,12 +71,12 @@ The Coeus OSINT ToolBox offers a wide array of tools and resources categorized i
 17. **[README](README.md)** - Instructions and information about the Coeus-ToolBox.
     - Detailed instructions, usage guidelines, and information about the Coeus-ToolBox.
 
-18. **[LICENSE](LICENSE)** - License information for the Coeus-Framework.
+18. **[LICENSE](LICENSE)** - License information for the Coeus-ToolBox.
     - Information about the licensing terms and conditions for using the Coeus-ToolBox.
 
 ## Usage 🚀
 
-Explore the various files to leverage different tools and resources provided by the Coeus OSINT Framework for your intelligence gathering needs. Each tool or resource file contains instructions on how to use them effectively.
+Explore the various files to leverage different tools and resources provided by the Coeus OSINT ToolBox for your intelligence gathering needs. Each tool or resource file contains instructions on how to use them effectively.
 
 ### Important Security Note 🔒
 
