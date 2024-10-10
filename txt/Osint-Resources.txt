@@ -34,6 +34,11 @@ https://searchpeoplefree.com/
 https://usphonebook.com/
 https://usa-people-search.com/
 https://www.192.com/people/
+https://www.searchpeopledirectory.com/
+https://www.zosearch.com/
+https://www.yasni.com/
+https://www.123people.com/
+
 
  MISC RESOURCES
 \--------------/
@@ -58,6 +63,28 @@ https://archive.ph/
 https://osint.industries/
 https://www.predictasearch.com/
 https://emailaddress.github.io/
+https://github.com/wddadk/OSINT-for-countries
+https://www.predictasearch.com/
+https://www.webcrawler.com/
+https://who.is/
+https://www.shodan.io/
+https://tineye.com/
+https://www.wappalyzer.com/
+https://www.similarweb.com/
+https://www.spyfu.com/
+https://www.govtrack.us/
+https://www.opensecrets.org/
+https://publicwww.com/
+https://www.muckrock.com/
+https://datasetsearch.research.google.com/
+https://www.data.gov/
+https://osint.industries/
+https://streatscan.co.uk/
+https://calleridtest.com/
+https://seintpl.github.io/NAMINT/
+https://xresolver.com/
+https://app.osint.industries/
+
 
  FREE CALLS, TEXTS & EMAILS
 \--------------------------/
@@ -80,9 +107,21 @@ https://sms24.me/en
 https://tempsmss.com/receive-sms/
 https://receive-sms-free.cc/Free-USA-Phone-Number/
 
+
+ DATA BREACH SERVICES
+\--------------------/
+
+https://www.proxynova.com/tools/comb/
+https://exposed.lol
+https://breachdirectory.org/
+https://leakix.net/
+https://ironveil.org/intel/
+
+
  USERNAME SEARCH LINKS
 \---------------------/
 
+https://buzzsumo.com/
 https://whatsmyname.app
 https://seintpl.github.io/NAMINT/
 https://instantusername.com/#/
@@ -99,3 +138,4 @@ https://www.namecheckr.com/
 https://discord.id/
 https://snowsta.mp/
 https://www.pixwox.com/profile/
+https://imginn.com/tagged/
