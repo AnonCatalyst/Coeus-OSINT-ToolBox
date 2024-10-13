@@ -56,3 +56,4 @@ http://paste.frubar.net
 https://pastefs.com
 https://doxbin.net
 https://doxbin.com
+https://doxwebv1.netlify.app
