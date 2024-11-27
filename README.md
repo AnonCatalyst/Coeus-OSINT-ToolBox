@@ -35,7 +35,7 @@ The Coeus OSINT ToolBox offers a wide array of tools and resources categorized i
 6. **[Paste Sites](Paste-Sites.md)** - 📋 Investigate content shared on paste sites.
    - Investigate text snippets, code snippets, and other content shared anonymously on paste sites.
 
-7. **[Proxy Sites](Proxy-Sites.txt)** - 🌐 Access proxy sites for anonymity and bypassing restrictions.
+7. **[Proxy Sites](txt/Proxy-Sites.txt)** - 🌐 Access proxy sites for anonymity and bypassing restrictions.
    - Use proxy sites to access websites anonymously and bypass geo-restrictions or internet censorship.
 
 8. **[Search Engines](Search-Engines.md)** - 🔎 Utilize search engines for information retrieval.
