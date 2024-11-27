@@ -2,11 +2,19 @@
 
 Welcome to the Coeus OSINT ToolBox, your comprehensive open-source intelligence (OSINT) platform designed to empower individuals and organizations with effective tools for gathering intelligence from open sources.
 
-> **Support Needed:**
+> **Donate:**
 Wanna speed up development and stop life from pausing the development flow? DONATE- even the smallest amount helps.
 ■ https://cash.app/$anoncatalyst
 
-``Update planned[includes] More resources & removal of dead links.``
+☆ __Update planned:__
+- ``More resources & removal of dead links.``
+  
+- ``|new table content| Attack Map List``
+
+- ``|new table content| Facial Recognition Guide
+``
+
+- ``|new table content| Facial Recognition Resources``
 
 ## Overview ℹ️
 
