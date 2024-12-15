@@ -51,3 +51,4 @@
 49. **Topsy** (https://topsy.com/): Social media analytics tool for searching and analyzing tweets and trends.
 50. **People Search Engines** (https://www.searchpeopledirectory.com/): Collection of people search engines for finding individuals online.
 51. **SubDomainRadar.io** (https://subdomainradar.io/): Subdomain Finder with unparalleled accuracy and speed.
+52. **LeakRadar** (https://leakradar.io/): Scans for compromised emails and domains in stealer logs.
