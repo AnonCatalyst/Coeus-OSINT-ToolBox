@@ -5,6 +5,9 @@ Below is a list of username search links along with a brief description of their
 1. **[whatsmyname.app](https://whatsmyname.app)**  
    - Provides a username search tool.
 
+2.  **[VaultCord.com](https://vaultcord.com/tools/discord-id-lookup)**  
+   - Discord profile lookup using user ID. Save avatar decorations, profile picture, and username effects.
+
 2. **[seintpl.github.io/NAMINT/](https://seintpl.github.io/NAMINT/)**  
    - Offers a platform for searching usernames.
 
