@@ -124,4 +124,4 @@ d.com/: Provides background checks, criminal records, contact information, and m
 
 ## Freemium People Search
 
-1. **DeepSearch** https://deepsearch.tools/: Search by name and review limited free candidate previews without login; full reports are paid. Verify possible matches against original sources.
+1. **DeepSearch** [deepsearch.tools](https://deepsearch.tools/): Search by name and review limited free candidate previews without login; full reports are paid. Verify possible matches against original sources.
