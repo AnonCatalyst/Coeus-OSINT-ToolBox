@@ -120,3 +120,8 @@ d.com/: Provides background checks, criminal records, contact information, and m
 8. **Cyndi's List** [cyndislist.com](https://www.cyndislist.com/): A comprehensive directory of genealogical resources and websites.
 9. **Archives.com** [archives.com](https://www.archives.com/): Limited free access to some historical records and family tree information.
 10. **RootsWeb** [rootsweb.ancestry.com](https://rootsweb.ancestry.com/): Provides free access to user-submitted family trees and historical records.
+
+
+## Freemium People Search
+
+1. **DeepSearch** https://deepsearch.tools/: Search by name and review limited free candidate previews without login; full reports are paid. Verify possible matches against original sources.
