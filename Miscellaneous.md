@@ -54,4 +54,5 @@
 52. **LeakRadar** (https://leakradar.io/): Scans for compromised emails and domains in stealer logs.
 53. **Xquik** (https://xquik.com): X search API and monitoring tools for public social media research workflows.
 54. **NiamonX** (https://niamonx.io/): OSINT and threat intelligence platform for breach monitoring, digital investigations and leaked credential analysis.
+55. **SnapDataHub** (https://snapdatahub.com/): Free lookup of public Snapchat creator profiles, showing Spotlight performance and engagement.
 
