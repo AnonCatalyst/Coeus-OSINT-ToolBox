@@ -61,3 +61,9 @@ Below is a list of username search links along with a brief description of their
 
 19. **[com.lullar.com](https://com.lullar.com/)**  
     - Free profile search by email, username or first/last name across 175+ social networks.
+
+20. **[viewsnapstories.com/username-finder](https://viewsnapstories.com/username-finder)**  
+    - Find Snapchat usernames quickly and easily with a simple online username search tool.
+
+21. **[viewtikstories.com/username-finder](https://viewtikstories.com/username-finder)**  
+    - Search and find TikTok usernames quickly without installing an app.
